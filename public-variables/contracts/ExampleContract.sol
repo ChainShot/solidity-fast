@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.17;
 
+// public - create a getter 
+// int, bool 
+
 contract ExampleContract { 
   uint8 public x = 255; // 0 - 255
   int8 public y = 127; // -128 - 127
